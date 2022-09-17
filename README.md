@@ -1,16 +1,26 @@
 # people_count
 
-A new Flutter project.
+<p align="center">
+  <img alt="People Count App" src=".github/screenshot.png" />
+</p>
 
-## Getting Started
+## 🏷️ Sobre
 
-This project is a starting point for a Flutter application.
+Projeto escrito em Flutter para a disciplina DIM0524 - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS.
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Como baixar e executar?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  # Clonar o repositório
+  $ git clone https://github.com/antonylemos/people_count.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  # Entrar no diretório
+  $ cd people_count
+
+  # Executar a aplicação
+  $ flutter run
+```
+
+---
+
+Desenvolvido com 💜 por Antony Lemos 🧑🏽‍🚀
